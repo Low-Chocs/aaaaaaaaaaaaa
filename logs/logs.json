@@ -1,0 +1,13 @@
+[
+    {
+        "pid": 0,
+        "container_id": "string",
+        "name": "string",
+        "vsz": 0,
+        "rss": 0,
+        "memory_usage": 0.0,
+        "cpu_usage": 0.0,
+        "action": "string",
+        "timestamp": "string"
+    }
+]
